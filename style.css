@@ -6,11 +6,6 @@
 body {
 	background-color: #EEE;
 }
-.content {
-	width: 700px;
-	margin: 20px auto;
-	font-size: 20px;
-}
 .heading {
 	padding: 20px 10px;
 	margin: 10px 10px;
@@ -18,4 +13,13 @@ body {
 }
 .heading h1 {
 	color: blue;
+}
+.nav_bar {
+	width: 100px;
+	float: right;
+}
+.content {
+	width: 700px;
+	margin: 20px auto;
+	font-size: 20px;
 }
