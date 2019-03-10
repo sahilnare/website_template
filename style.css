@@ -3,6 +3,9 @@
 	margin: 0;
 	box-sizing: border-box;
 }
+body {
+	background-color: #EEE;
+}
 .content {
 	width: 700px;
 	margin: 20px auto;
@@ -12,4 +15,7 @@
 	padding: 20px 10px;
 	margin: 10px 10px;
 	text-align: center;
+}
+.heading h1 {
+	color: blue;
 }
