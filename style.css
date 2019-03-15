@@ -9,15 +9,18 @@ body {
 .content {
 	width: 700px;
 	margin: 20px auto;
+	text-align: justify;
 	font-size: 20px;
 }
 .heading {
-	padding: 20px 10px;
+	padding: 20px 10px 0 10px;
 	margin: 10px 10px;
 	text-align: center;
 }
 .heading h1 {
 	color: blue;
+	padding: 0 0 10px 0;
+	text-shadow: 2px 1px 5px grey;
 }
 .logo {
   margin: 30px auto;
