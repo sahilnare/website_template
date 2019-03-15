@@ -19,3 +19,12 @@ body {
 .heading h1 {
 	color: blue;
 }
+.logo {
+  margin: 30px auto;
+  display: block;
+  width: 250px;
+}
+.logo-div {
+  width: 250px;
+  margin: 0 auto;
+}
